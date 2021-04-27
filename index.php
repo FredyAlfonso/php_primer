@@ -24,6 +24,7 @@
     <button type="button" class="btn btn-dark">CLICK ME</button>
     <button type="button" class="btn btn-primary">CLICK ME</button>
     <button type="button" class="btn btn-success">CLICK ME</button>
+    <a href="https://www.heroku.com" class="btn btn-danger" target="_blank">Heroku.com</a>
     <?php
         require 'includes/footer.php';//a diferencia del include, este crea una dependencia
     ?>
